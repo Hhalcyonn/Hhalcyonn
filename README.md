@@ -22,23 +22,26 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 ***THE MODELS ARE NOT FULLY MINE!***
 
 <p align="center">
-  <video width="550" controls>
+  <video width="620" controls>
     <source src="https://github.com/user-attachments/assets/f8b8de82-a8e9-4e4e-ad3a-723f2dd56e3c" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
+  <br><br>
+  <em>Main gameplay demo - Morphing & combat system</em>
 </p>
 
 <p align="center">
-  <video width="550" controls>
+  <video width="48%" controls>
     <source src="https://github.com/user-attachments/assets/2ef2d383-a1ec-457e-945d-d5af6f8a13cb" type="video/mp4">
   </video>
-</p>
-
-<p align="center">
-  <video width="550" controls>
+  <video width="48%" controls>
     <source src="https://github.com/user-attachments/assets/f49d2d1a-0ecf-4c5c-975f-54d9df78a271" type="video/mp4">
   </video>
 </p>
 
+<p align="center">
+  <em>Left: Morphing demonstration • Right: Boss fight / combat clip</em>
+</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1dabf5dd-9e39-4b9f-bd92-fd05246d1d66" width="700" alt="Sans Models Remixes">
 </p>
