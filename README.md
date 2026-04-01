@@ -17,8 +17,10 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 - Make simple but working scripts
 
 ## Games I've Developed ⚙️
-- **Souls ops: Inking** - A game where you morph as sanses from alternate universes and fight the enemy sanses in order to protect the souls! 
+- **Souls ops: Inking** - A game where you morph as sanses from alternate universes and fight the enemy sanses in order to protect the souls!
+  
 ***THE MODELS ARE NOT FULLY MINE!***
+  
 https://github.com/user-attachments/assets/f8b8de82-a8e9-4e4e-ad3a-723f2dd56e3c
 
 https://github.com/user-attachments/assets/f49d2d1a-0ecf-4c5c-975f-54d9df78a271
@@ -26,9 +28,12 @@ https://github.com/user-attachments/assets/f49d2d1a-0ecf-4c5c-975f-54d9df78a271
 https://github.com/user-attachments/assets/2ef2d383-a1ec-457e-945d-d5af6f8a13cb
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04dcb47c-f083-427f-995e-39ca799dec48" width="32%" alt="Game Screenshot1">
-  <img src="https://github.com/user-attachments/assets/1dabf5dd-9e39-4b9f-bd92-fd05246d1d66" width="32%" alt="Sanses models">
-  <img src="https://github.com/user-attachments/assets/07ec20db-8229-438e-9e85-565638a7c883" width="32%" alt="Game Screenshot2">
+  <img src="https://github.com/user-attachments/assets/1dabf5dd-9e39-4b9f-bd92-fd05246d1d66" width="700" alt="Sans Models Remixes">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04dcb47c-f083-427f-995e-39ca799dec48" width="48%" alt="Description of first small image">
+  <img src="https://github.com/user-attachments/assets/07ec20db-8229-438e-9e85-565638a7c883" width="48%" alt="Description of second small image">
 </p>
 
 ## Skills 🧠
@@ -46,10 +51,10 @@ https://github.com/user-attachments/assets/2ef2d383-a1ec-457e-945d-d5af6f8a13cb
 
 - Building
 
-<img width="555" height="230.5" alt="Example Map1" src="https://github.com/user-attachments/assets/e3046f7f-10fc-4f0f-8e31-0506a249a145" />
-
-<img width="559.5" height="233" alt="Example Map2" src="https://github.com/user-attachments/assets/eea580ac-0cfd-4cfe-a1ff-1e6bc4bfa389" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e3046f7f-10fc-4f0f-8e31-0506a249a145" width="30%" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/eea580ac-0cfd-4cfe-a1ff-1e6bc4bfa389" width="30%" alt="Image 2">
+</p>
 
 ## Currently Working On 🚧
 
