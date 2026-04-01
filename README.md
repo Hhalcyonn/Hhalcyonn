@@ -3,8 +3,8 @@
 I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/545e7c2b-1538-4da2-a87b-ca9eba9ffd24" width="48%" alt="Image 1">
-  <img src="https://github.com/user-attachments/assets/77cebeb3-eb0a-4c74-896e-78dc37e81801" width="48%" alt="Image 2">
+  <img src="https://github.com/user-attachments/assets/24325b84-d84e-48f1-ace5-b3e50a6bc83d" width="30%" alt="Image 1">
+  <img src="https://github.com/user-attachments/assets/77cebeb3-eb0a-4c74-896e-78dc37e81801" width="30%" alt="Image 2">
 </p>
 
 ## What I do 🛠️
