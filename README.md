@@ -17,27 +17,9 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 - Make simple but working scripts
 
 ## Games I've Developed ⚙️
-- **Souls ops: Inking** - A game where you morph as sanses from alternate universes and fight the enemy sanses in order to protect the souls!
+- **Souls ops: Inking** - A game where you morph as sanses from alternate universes and fight the enemy sanses in order to protect the souls! (Sadly discontinued)
   
 ***THE MODELS ARE NOT FULLY MINE!***
-
-<p align="center">
-  <video width="620" controls>
-    <source src="https://github.com/user-attachments/assets/f8b8de82-a8e9-4e4e-ad3a-723f2dd56e3c" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <br><br>
-  <em>Main gameplay demo - Morphing & combat system</em>
-</p>
-
-<p align="center">
-  <video width="48%" controls>
-    <source src="https://github.com/user-attachments/assets/2ef2d383-a1ec-457e-945d-d5af6f8a13cb" type="video/mp4">
-  </video>
-  <video width="48%" controls>
-    <source src="https://github.com/user-attachments/assets/f49d2d1a-0ecf-4c5c-975f-54d9df78a271" type="video/mp4">
-  </video>
-</p>
 
 <p align="center">
   <em>Left: Morphing demonstration • Right: Boss fight / combat clip</em>
@@ -53,7 +35,7 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 
 ## Skills 🧠
 
-- Luau
+- Decent Luau
 <img width="100" height="100" alt="Luau" src="https://github.com/user-attachments/assets/8cc4c00a-6100-4c1d-bac3-fbe6b4def830" />
 
 - Roblox Studio
@@ -73,7 +55,7 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 
 ## Currently Working On 🚧
 
-- **Soul Ops: Inking** *(Working on morphing mechanic, map, models, attack mechanics)*
+- **Transformation Simulator**, A game where you transform into different types of transformation from the anime naruto and phases.
 
 ## Funfacts 👀
 
