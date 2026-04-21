@@ -17,13 +17,10 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 - Make simple but working scripts
 
 ## Games I've Developed ⚙️
-- **Souls ops: Inking** - A game where you morph as sanses from alternate universes and fight the enemy sanses in order to protect the souls! (Sadly discontinued)
+- **Souls ops: Inking** - A game where you morph as sanses from alternate universes and fight the enemy sanses in order to protect the souls! (Sadly discontinued) - Contributed in attack model and mechanics, morphing mechanic, maps and models.
   
 ***THE MODELS ARE NOT FULLY MINE!***
 
-<p align="center">
-  <em>Left: Morphing demonstration • Right: Boss fight / combat clip</em>
-</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1dabf5dd-9e39-4b9f-bd92-fd05246d1d66" width="700" alt="Sans Models Remixes">
 </p>
@@ -55,7 +52,7 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 
 ## Currently Working On 🚧
 
-- **Transformation Simulator**, A game where you transform into different types of transformation from the anime naruto and phases.
+- **Transformation Simulator** - A game where you transform into different types of transformation from the anime naruto and phases. Game is currently developed by solely me.
 
 ## Funfacts 👀
 
