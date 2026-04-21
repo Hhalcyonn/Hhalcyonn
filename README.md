@@ -60,6 +60,8 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 - I live in Indonesia
 - Currently learning specifically about Luau
 - Big fan of the game Undertale made by Toby Fox (Especially his Musics🎵)
+- Free 12/7
+- Chill 😎✌️
 
 ## Socials! 📱
 
