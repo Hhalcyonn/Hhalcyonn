@@ -52,7 +52,7 @@ I'm Halcyon, a passionate **Roblox Scripter, Builder, and Animator** 😁
 
 ## Currently Working On 🚧
 
-- **Transformation Simulator** - A game where you transform into different types of transformation from the anime naruto and phases. Game is currently developed by solely me.
+- **Transformation Simulator** - A game where you transform into different types of transformation from the anime naruto and phases. Game is currently developed by solely me. But Overall im free for anything.
 
 ## Funfacts 👀
 
